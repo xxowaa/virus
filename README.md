@@ -120,7 +120,7 @@ git clone https://github.com/xxowaa/virus.git
 python3 main.py
 ```
 
-
+You now have the **Virus** game on your linux os.
 
 
 
