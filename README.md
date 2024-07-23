@@ -11,7 +11,7 @@ Here is how to install:
 
 ## On Linux Based Distros
 Make sure you have installed the `Git` package:
-The commands for each os is under
+The commands for each os is under:
 
 ### Debian-based Systems (e.g., Ubuntu, Linux Mint)
 ```bash
@@ -54,7 +54,9 @@ sudo snap install git --classic
 flatpak install flathub org.freedesktop.Sdk.Extension.git
 ```
 
-Then make sure you have the `python3' package
+Then make sure you have the `python3` package
+
+The commands for each os is under:
 
 
 ### Debian-based Systems (e.g., Ubuntu, Linux Mint)
