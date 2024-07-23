@@ -188,5 +188,6 @@ python main.py
 ```
 You have now run the **Virus** game on windows.
 
+> **NOTE**: there is a error in the code that i dont know how to fix so good luck ig
 
 
