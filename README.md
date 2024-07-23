@@ -186,6 +186,7 @@ Now run this:
 ```batch
 python main.py
 ```
+You have now run the **Virus** game on windows.
 
 
 
