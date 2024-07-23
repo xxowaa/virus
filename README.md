@@ -122,5 +122,49 @@ python3 main.py
 
 You now have the **Virus** game on your linux os.
 
+## Install on Windows
+
+The ways of installing python on windows is listed below:
+
+
+#### 1. **Chocolatey**
+1. Open Command Prompt or PowerShell as an administrator.
+2. Install Chocolatey using the following command:
+    ```powershell
+    Set-ExecutionPolicy Bypass -Scope Process -Force; `
+    [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; `
+    iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+    ```
+3. Install Python using Chocolatey:
+    ```powershell
+    choco install python
+    ```
+
+#### 2. **Scoop**
+1. Open PowerShell.
+2. Install Scoop using the following command:
+    ```powershell
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+    irm get.scoop.sh | iex
+    ```
+3. Install Python using Scoop:
+    ```powershell
+    scoop install python
+    ```
+
+#### 3. **WinGet**
+1. Open Command Prompt or PowerShell.
+2. Install Python using WinGet:
+    ```powershell
+    winget install Python.Python.3
+    ```
+
+### Using the Microsoft Store
+1. Open the Microsoft Store.
+2. Search for "Python".
+3. Select the version of Python you want to install (e.g., Python 3.9, Python 3.10).
+4. Click "Get" or "Install" to download and install Python.
+
+These methods will allow you to install Python on Windows using either the command line or the Microsoft Store.
 
 
