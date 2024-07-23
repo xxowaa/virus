@@ -9,7 +9,7 @@ Virus is a 0 player game inspired by "Conway's Game Of Life" made in python usin
 
 Here is how to install:
 
-# On Linux Based Distros
+## On Linux Based Distros
 Make sure you have installed the `Git` package:
 The commands for each os is under
 
