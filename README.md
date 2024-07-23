@@ -165,9 +165,10 @@ The ways of installing python on windows is listed below:
 3. Select the version of Python you want to install (e.g., Python 3.9, Python 3.10).
 4. Click "Get" or "Install" to download and install Python.
 
-Once you are done with any of the above run this command in the command prompt:
+Once you are done with any of the above run these commands in the command prompt:
 
 ```batch
+mkdir virus-game && cd virus-game
 python main.py
 ```
 
