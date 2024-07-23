@@ -180,5 +180,12 @@ Click this button:
 
 Drop the `virus.zip` folder into the `virus-game` folder.
 
+Unzip the folder
+
+Now run this:
+```batch
+python main.py
+```
+
 
 
