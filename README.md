@@ -172,6 +172,10 @@ mkdir virus-game && cd virus-game
 ```
 
 Click this button:
+
+
+
+
 [![Download game](https://lelbois.nekoweb.org/download.svg)](https://github.com/xxowaa/virus/raw/main/virus.zip)
 
 Drop the `virus.zip` folder into the `virus-game` folder.
