@@ -117,6 +117,7 @@ Once you are done, run these commands:
 mkdir virus-game
 cd virus-game
 git clone https://github.com/xxowaa/virus.git
+python3 main.py
 ```
 
 
