@@ -1,6 +1,6 @@
 # Virus 
 
-Virus is a 0 player game inspired by "Conway's Game Of Life"
+Virus is a 0 player game inspired by "Conway's Game Of Life" made in python using the `matplotlib` package.
 <P>                                                                    
 
 
