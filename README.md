@@ -114,9 +114,9 @@ python3 --version
 Once you are done, run these commands:
 
 ```shell
-$ mkdir virus-game
-$ cd virus-game
-$ git clone https://github.com/xxowaa/virus.git
+mkdir virus-game
+cd virus-game
+git clone https://github.com/xxowaa/virus.git
 ```
 
 
