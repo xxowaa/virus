@@ -169,6 +169,12 @@ Once you are done with any of the above run these commands in the command prompt
 
 ```batch
 mkdir virus-game && cd virus-game
-python main.py
 ```
+
+Click this button:
+[![Download game](https://lelbois.nekoweb.org/download.svg)](https://github.com/xxowaa/virus/raw/main/virus.zip)
+
+Drop the `virus.zip` folder into the `virus-game` folder.
+
+
 
