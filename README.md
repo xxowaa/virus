@@ -111,7 +111,13 @@ After installing Python using any of the methods above, you can verify the insta
 python3 --version
 ```
 
-After you ran these commands run these:
+Once you are done, run these commands:
+
+```shell
+$ mkdir virus-game
+$ cd virus-game
+$ git clone https://github.com/xxowaa/virus.git
+```
 
 
 
